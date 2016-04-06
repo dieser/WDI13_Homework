@@ -1,0 +1,2 @@
+#rainbow text
+require 'rainbow'
